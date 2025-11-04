@@ -1,0 +1,115 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="JORXDTV.jp" tvg-logo="https://i.imgur.com/sEWDmMD.png" group-title="Japan", Fuji TV
+https://fujitv4.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 tvg-id="ArirangTV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/512px-Arirang.svg.png" group-title="Korea", Arirang  TV
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Arirang.svg/512px-Arirang.svg.png" group-title="Radio", Arirang Radio
+http://amdlive.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="JTBC.kr" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1600/C01582.png" group-title="Korea", JTBC
+http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C01582&q=FHD&apikey=7IORE53M3M
+#EXTINF:-1 tvg-id="KBS1TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="Korea", KBS1
+http://mytv.dothome.co.kr/ch/public/1.php
+#EXTINF:-1 tvg-id="KBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="Korea", KBS2
+http://mytv.dothome.co.kr/ch/public/3.php
+#EXTINF:-1 tvg-id="MBCTV.kr" tvg-logo="http://image.tving.com/public_v4/portal/images/smr/logo_mbc.png" group-title="Korea", MBC
+http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=url&s=wavve&i=M01&q=FHD&apikey=7IORE53M3M
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Mnet.png" group-title="Korea", Mnet
+http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00579&q=FHD&apikey=7IORE53M3M
+#EXTINF:-1 tvg-id="SBSTV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/2560px-Seoul_Broadcasting_System_logo.svg.png" group-title="Korea", SBS
+https://tvlive.sbs.co.kr/sbsch6/sbsch62.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3MjYyMjYwMDgsInBhdGgiOiIvc2JzY2g2Mi5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjYzZTk4ODc3LTc3MGMtNGE2OC04NjQwLWM2ZGVkNzMzZGQ0NyIsImlhdCI6MTcyNjIxODgwOH0.z0ilOkBilhSuRHorrmcumIy-5Gs4CbUFjxdRKXACg2Q&solsessionid=1f5a2084a2750ddd6687eccea406f354
+#EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/TV_Chosun_Logo_%28English%29.svg/2560px-TV_Chosun_Logo_%28English%29.svg.png" group-title="Korea", TV Chosun
+http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C01581&q=FHD&apikey=7IORE53M3M
+#EXTINF:-1 tvg-id="tvN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png" group-title="Korea", tvN
+http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00551&q=FHD&apikey=7IORE53M3M
+#EXTINF:-1 tvg-id="JTBC.kr" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1600/C01582.png" group-title="Korea Backup", JTBC_Backup
+http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C01582&q=SD&apikey=7IORE53M3M
+#EXTINF:-1 tvg-id="KBS1TV.kr" tvg-logo="https://i.ibb.co/SX0s02c/kbs1-removebg-preview.png" group-title="Korea Backup", KBS1_Backup
+http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=url&s=wavve&i=K01&q=SD&apikey=7IORE53M3M
+#EXTINF:-1 tvg-id="KBS2TV.kr" tvg-logo="https://i.ibb.co/60SxHQZ/kbs2-removebg-preview.png" group-title="Korea Backup", KBS2_Backup
+http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=url&s=wavve&i=K02&q=SD&apikey=7IORE53M3M
+#EXTINF:-1 tvg-id="MBCTV.kr" tvg-logo="http://image.tving.com/public_v4/portal/images/smr/logo_mbc.png" group-title="Korea Backup", MBC_Backup
+http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=url&s=wavve&i=M01&q=SD&apikey=7IORE53M3M
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Mnet.png" group-title="Korea Backup", Mnet_Backup
+http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00579&q=SD&apikey=7IORE53M3M
+#EXTINF:-1 tvg-id="SBSTV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/2560px-Seoul_Broadcasting_System_logo.svg.png" group-title="Korea Backup", SBS_Backup
+http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=url&s=wavve&i=S01&q=SD&apikey=7IORE53M3M
+#EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/TV_Chosun_Logo_%28English%29.svg/2560px-TV_Chosun_Logo_%28English%29.svg.png" group-title="Korea Backup", TV Chosun_Backup
+http://sasapapa.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C01581&q=SD&apikey=NZMS6QSNGU
+#EXTINF:-1 tvg-id="tvN.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png" group-title="Korea Backup", tvN_Backup
+http://kweonyb216.iptime.org:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00551&q=SD&apikey=7IORE53M3M
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nClHrTu.png" group-title="Korea Temporary", ENA
+http://mytv.dothome.co.kr/ch/catv/227.php
+#EXTINF:-1 group-title="Korea Temporary", OCN
+http://1.179.247.11/live/ocn_540/playlist.m3u8
+#EXTINF:-1 tvg-id="GMATV.ph" tvg-logo="https://i.imgur.com/uAqFMLy.png" group-title="Philippines", GMA 7
+https://cdn.ganbaruby23.xyz/stream/restream/gma/stream.m3u8?uid=1485345779&u=FiliTV&p=ea3e07a61f5af654b1bc96090db16bf246337738d5fceae3401a1205f2f8a60f
+#EXTINF:-1 tvg-id="TV5.ph" tvg-logo="https://i.imgur.com/PYJhTiq.png" group-title="Philippines", TV5
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
+#EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/512px-CNA_new_logo.svg.png" group-title="Singapore", CNA International (1080p)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-id="TaiwanPlusTV.tw" tvg-logo="https://i.imgur.com/SfcZyqm.png" group-title="TAIWAN", TaiwanPlus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/ap-northeast-1/6282251407001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-id="Channel5.th" tvg-logo="https://i.imgur.com/wOIaqg7.png" group-title="THAILAND", Channel 5 (1080p)
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel7.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Ch-7-HD-Logo-crop.png" group-title="THAILAND", Channel 7 (1080p)
+http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
+#EXTINF:-1 tvg-id="BBCNewsNorthAmerica.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="UK", BBC News (North America) (1080p)
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1 tvg-id="channel4.uk" tvg-name="Channel 4 " tvg-country="United Kingdom" tvg-logo="https://raw.githubusercontent.com/Howielyn/tv_logo/157c4640e5fc39891c46b147013d4508fcf7da3a/master/assets/Channel_4_(1982).png" group-title="UK", Channel 4 HD
+https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
+#EXTINF:-1 tvg-id="WPVIDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="USA", WPVI ABC 6 News (Philadelphia PA)
+https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8
+#EXTINF:-1 tvg-id="WTVQDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="USA", WTVQ ABC 36 News (Lexington KY)
+https://dai.google.com/linear/hls/event/7xSxXPG1RqKkNva1wIWlVw/master.m3u8
+#EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/1200px-NBA_TV.svg.png" group-title="USA", NBA TV
+http://fl2.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/%EC%BC%80%EC%9D%B4%EB%B9%84%EC%97%90%EC%8A%A4_%EB%89%B4%EC%8A%A4_%EB%94%94.svg" group-title="Korea", KBS NEWS D
+http://mytv.dothome.co.kr/ch/catv/1.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/KBS_DRAMA.svg/512px-KBS_DRAMA.svg.png" group-title="Korea", KBS Drama 
+http://mytv.dothome.co.kr/ch/catv/2.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KBS_JOY.svg/512px-KBS_JOY.svg.png", KBS Joy
+http://mytv.dothome.co.kr/ch/catv/3.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/KBS_Story.svg/512px-KBS_Story.svg.png" group-title="Korea", KBS Story
+http://mytv.dothome.co.kr/ch/catv/4.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/KBS_Life.svg/512px-KBS_Life.svg.png" group-title="Korea", KBS Life
+http://mytv.dothome.co.kr/ch/catv/5.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KBS_kids.svg/512px-KBS_kids.svg.png" group-title="Korea", KBS Kids
+http://mytv.dothome.co.kr/ch/catv/6.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/KBS_World_%282009%29.svg" group-title="Korea", KBS World
+http://mytv.dothome.co.kr/ch/catv/7.php
+#EXTINF:-1 group-title="Korea Temporary", SBS Plus
+http://mytv.dothome.co.kr/ch/catv/31.php
+#EXTINF:-1 group-title="Korea Temporary", SBS funE
+http://mytv.dothome.co.kr/ch/catv/32.php
+#EXTINF:-1 group-title="Korea Temporary", SBS M
+http://mytv.dothome.co.kr/ch/catv/33.php
+#EXTINF:-1 group-title="Korea Temporary", SBS Biz
+http://mytv.dothome.co.kr/ch/catv/34.php
+#EXTINF:-1 group-title="Korea Temporary", SBS Sports
+http://mytv.dothome.co.kr/ch/catv/35.php
+#EXTINF:-1 group-title="Korea Temporary", SBS Golf
+http://mytv.dothome.co.kr/ch/catv/36.php
+#EXTINF:-1 group-title="Korea Temporary", The K POP
+http://mytv.dothome.co.kr/ch/catv/37.php
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/ABC_25_Columbia_logo_2022.png" tvg-id="ABCWOLO.us" group-title="USA", ABC (WOLO)
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/2438px-ZooMoo_logo.svg.png" tvg-id="ZooMoo.sg" group-title="Singapore", ZooMoo Asia
+https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8
+#EXTINF:-1 tvg-logo="https://www.kiss92.sg/wp-content/assets/4/img/NAV_01_Logo_920.svg" tvg-id="kiss92.sg" group-title="Radio", kiss92
+https://22283.live.streamtheworld.com/KISS_92AAC.aac?dist=sphradio-web&gdpr=0&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=53f4b429-330c-415b-bbe0-0c1166329d3b
+#EXTINF:-1 tvg-logo="https://i.imgur.com/odwRbRk.png" group-title="Philippines", ANC 
+https://ancglobal-abscbn-ono.amagi.tv/playlist720_p.m3u8
+#EXTINF:-1 tvg-name="TV Chosun 2" tvg-language="Korean" tvg-country="KR" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1400/C00585.png" group-title="Korea", TV Chosun 2
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00585&q=SD&apikey=5MY50EII66
+#EXTINF:-1 tvg-id="Film4.uk@HD" tvg-logo="https://raw.githubusercontent.com/Howielyn/tv_logo/157c4640e5fc39891c46b147013d4508fcf7da3a/master/assets/FILM4-PROTO.png" group-title="UK", Film4 HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8
+#EXTINF:-1 tvg-id="Channel5.uk@HD" group-title="UK", Channel 5 HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
+#EXTINF:-1 tvg-id="BBCFourCBeebies.uk@HD" group-title="UK", BBC Four/CBeebies (1080p)
+https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
+#EXTINF:-1 tvg-id="BBCThreeCBBC.uk@HD" group-title="UK", BBC Three/CBBC (1080p)
+https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
+#EXTINF:-1 tvg-id="More4.uk@HD" tvg-logo="https://raw.githubusercontent.com/Howielyn/tv_logo/157c4640e5fc39891c46b147013d4508fcf7da3a/master/assets/More4_2012.png" group-title="UK", More4 HD
+https://viamotionhsi.netplus.ch/live/eds/more4/browser-HLS8/more4.m3u8
+#EXTINF:-1 tvg-id="BBCTwo.uk@HD" group-title="UK", BBC Two HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
