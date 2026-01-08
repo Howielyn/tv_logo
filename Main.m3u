@@ -1,1 +1,5 @@
-
+#EXTM3U
+#EXTINF:-1 group-title="OTT",TV Box
+https://raw.githubusercontent.com/Howielyn/tv_logo/OTT-Playlist/Tv%20Box.m3u
+#EXTINF:-1 group-title="OTT",Phone
+https://raw.githubusercontent.com/Howielyn/tv_logo/OTT-Playlist/phone.m3u
