@@ -1,5 +1,6 @@
-#EXTM3U
-#EXTINF:-1 group-title="OTT",TV Box
-https://raw.githubusercontent.com/Howielyn/tv_logo/OTT-Playlist/Tv%20Box.m3u
-#EXTINF:-1 group-title="OTT",Phone
-https://raw.githubusercontent.com/Howielyn/tv_logo/OTT-Playlist/phone.m3u
+#EXTM3U 
+#EXTINF:-1 ch-number="1" tvg-id="채널A.kr" tvg-logo="https://image.ichannela.com/images/common/logo_rebrand_w.png" group-title="Free to Air",채널A HD https://setting.qkim.net/alive/api/url.m3u8?m=web_play&s=wavve&i=C2501&q=FHD&apikey=TQDUYRMX4P&u=Y 
+#EXTINF:-1 ch-number="2" tvg-id="Mnet.kr" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1400/C00579.png" group-title="Free to Air",M.net HD http://mnet.x10.mx/mnet.m3u8 
+#EXTINF:-1 ch-number="3" tvg-id="TV조선.kr" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1600/C01581.png" group-title="Free to Air",TV CHOSUN HD https://setting.qkim.net/alive/api/url.m3u8?m=web_play&s=wavve&i=C2601&q=FHD&apikey=TQDUYRMX4P&u=Y 
+#EXTINF:-1 ch-number="4" tvg-id="JTBC.kr" tvg-logo="https://i.ibb.co/j9SQF3v2/image.png" group-title="Free to Air",JTBC HD http://mnet.x10.mx/koreaiptv/cable/jtbc.php 
+#EXTINF:-1 ch-number="5" tvg-id="SBS.kr" tvg-logo="http://image.tving.com/public_v4/portal/images/smr/logo_sbs.png" group-title="Free to Air",SBS HD http://mnet.x10.mx/koreaiptv/gorealra.php?
