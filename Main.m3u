@@ -12,7 +12,7 @@ http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsch6&streamName=sbsch60
 #EXTINF:-1 ch-number="9" tvg-id="KBS1.kr" tvg-logo="https://i.ibb.co/nCcRzwQ/KBS1-BI-wordmark-white.png" group-title="Free to Air",KBS1 HD 
 https://setting.qkim.net/alive/api/url.m3u8?m=web_play&s=wavve&i=K01&q=FHD&apikey=TQDUYRMX4P&u=Y 
 #EXTINF:-1 ch-number="11" tvg-id="MBC.kr" tvg-logo="https://i.ibb.co/1t8pMrY1/image.png" group-title="Free to Air",MBC HD 
-https://setting.qkim.net/alive/api/url.m3u8?
+https://setting.qkim.net/alive/api/url.m3u8?m=url&s=wavve&i=M01&q=FHD&apikey=TQDUYRMX4P&u=Y
 #EXTINF:-1 ch-number="19" tvg-id="KBS2.kr" tvg-logo="https://i.ibb.co/yX1F3Ct/KBS2-BI-wordmark-white.png" group-title="Free to Air",KBS2 
 https://setting.qkim.net/alive/api/url.m3u8?m=web_play&s=wavve&i=K02&q=HD&apikey=TQDUYRMX4P&u=Y
 #EXTINF:-1 ch-number="20" tvg-id="tvN.kr" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1600/C00551.png" group-title="Entertainment",tvN HD 
