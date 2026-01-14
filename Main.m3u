@@ -8,7 +8,7 @@ https://setting.qkim.net/alive/api/url.m3u8?m=web_play&s=wavve&i=C2601&q=FHD&api
 #EXTINF:-1 ch-number="4" tvg-id="JTBC.kr" tvg-logo="https://i.ibb.co/j9SQF3v2/image.png" group-title="Free to Air",JTBC HD
 http://mnet.x10.mx/koreaiptv/cable/jtbc.php 
 #EXTINF:-1 ch-number="5" tvg-id="SBS.kr" tvg-logo="http://image.tving.com/public_v4/portal/images/smr/logo_sbs.png" group-title="Free to Air",SBS HD
-http://mnet.x10.mx/koreaiptv/gorealra.php?
+http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsch6&streamName=sbsch60
 #EXTINF:-1 ch-number="9" tvg-id="KBS1.kr" tvg-logo="https://i.ibb.co/nCcRzwQ/KBS1-BI-wordmark-white.png" group-title="Free to Air",KBS1 HD 
 https://setting.qkim.net/alive/api/url.m3u8?m=web_play&s=wavve&i=K01&q=FHD&apikey=TQDUYRMX4P&u=Y 
 #EXTINF:-1 ch-number="11" tvg-id="MBC.kr" tvg-logo="https://i.ibb.co/1t8pMrY1/image.png" group-title="Free to Air",MBC HD 
