@@ -25,3 +25,5 @@ http://mnet.x10.mx/koreaiptv/cable/mbctv.php
 https://setting.qkim.net/alive/api/url.m3u8?m=web_play&s=tving&i=C01582&q=SD&apikey=TQDUYRMX4P&u=Y 
 #EXTINF:-1 ch-number="2003" tvg-id="Mnet.kr" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1400/C00579.png" group-title="SD",M.net SD 
 http://218.232.101.46:20666/alive/api/url.m3u8?m=web_play&s=tving&i=C00579&q=SD&apikey=EGX0OLNBWC&u=Y
+#EXTINF:-1 tvg-id="channel4.uk" tvg-name="Channel 4 " tvg-country="United Kingdom" tvg-logo="https://raw.githubusercontent.com/Howielyn/tv_logo/157c4640e5fc39891c46b147013d4508fcf7da3a/master/assets/Channel_4_(1982).png" group-title="UK", Channel 4 HD
+https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
